@@ -14,5 +14,5 @@ fis.match('*.png', {
 
 fis.match('*.{js,css,png}', {
     useHash: true,
-    domain: 'http://7xrdyx.com1.z0.glb.clouddn.com',
+    domain: 'http://somecdn.com',
 });
