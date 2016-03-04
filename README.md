@@ -12,6 +12,5 @@ npm start
 ##Deploy
 
 ```sh
-npm run build
-fab deploy -i ~/.ssh/kp-******
+npm run deploy
 ```
